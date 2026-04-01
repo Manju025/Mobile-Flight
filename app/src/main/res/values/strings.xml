@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Mobile Flight</string>
+    <string name="flight_info">Flight: SK123</string>
+    <string name="departure_info">EDI - 10:30 AM</string>
+    <string name="arrival_info">LHR - 11:45 AM</string>
+    <string name="screen_title">Flight Status</string>
+    <string name="label_flight">FLIGHT</string>
+    <string name="label_departure">DEPARTURE</string>
+    <string name="label_arrival">ARRIVAL</string>
+</resources>
